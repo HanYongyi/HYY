@@ -1,5 +1,5 @@
 # HYY
-# 🏺ChatCAS: Multimodal Ceramic Multi-Agent Studio (Consultation • Analysis • Synthesis)
+# 🏺ChatCAS: Multimodal Ceramic Multi-Agent Studio (Consultation • Analysis • Generation)
 
 **🔬 Agent Construction Framework for the Ceramics Domain: Application Demonstrations in Ceramic Knowledge Question-Answering and Image Analysis & Generation**  
 **📅 Estimated completion time of open source project: end of 2025**
