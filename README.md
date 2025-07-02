@@ -35,7 +35,7 @@ We will open source gradually in the following stages：
 ## 📁 Directory Structure
 
 ```bash
-AcupunctureGPT/
+CeramicGPT/
 ├── data/                       # Knowledge Graph and Evaluation Set (Coming soon)
 ├── models/                     # Fine-tuning model related content (open source planned)
 ├── agents/                     # Multi-agent framework code
