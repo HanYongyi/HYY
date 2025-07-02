@@ -7,8 +7,6 @@
 ---
 
 ## 📖 Project Overview
-
-📖 Project Overview
 This project aims to develop the first large language model (LLM) system specifically for the ceramic field. This system integrates rich multimodal knowledge of ceramics, multimodal evaluation datasets, and a collaborative multi-agent framework, all of which are designed to enhance expert consultation, image analysis, and creative decision-making throughout the entire ceramic design and production process.
 
 We propose the following key modules:：
