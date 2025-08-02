@@ -19,6 +19,10 @@ The project is dedicated to promoting the deep integration of artificial intelli
 
 ---
 
+## 🚀 Model Availability
+
+The **CeramicGPT** model and related resources are available on [Hugging Face](https://huggingface.co/HanYongyi/CeramicGPT).  
+---
 ## 📌 Open Source Roadmap
 
 We will open source gradually in the following stages：
