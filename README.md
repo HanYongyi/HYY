@@ -15,7 +15,7 @@ We propose the following key modules:：
 - 🤖 **ChatCAS**：Driven by CeramicGPT and GPT-4o. It categorizes tasks related to the various stages of a ceramic studio, completing collaborative work through role-playing and task goal consensus. ChatCAS can effectively handle comprehensive tasks in the ceramics field, including Q&A, image analysis, and generation.
 The project is dedicated to promoting the deep integration of artificial intelligence and ceramics, and supporting more scientific research and industrial application explorations.
 
-The project is committed to promoting the deep integration of artificial intelligence and TCM acupuncture, and supporting more scientific research and clinical application exploration.
+The project is dedicated to promoting the deep integration of artificial intelligence and ceramics, and supporting more scientific research and application exploration.
 
 ---
 
