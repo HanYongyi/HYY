@@ -1,0 +1,2 @@
+The CeramicGPT model and related resources are available on：
+https://huggingface.co/HanYongyi/CeramicGPT
