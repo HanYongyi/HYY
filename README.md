@@ -46,7 +46,23 @@ CeramicGPT/
 ├── docs/                       # Project documentation and experimental details
 └── README.md                   # Project description
 ```
+## 🔄 Reproducibility and Data Standards
 
+To ensure transparency and reproducibility, we have made the following resources publicly available in this repository:
+
+- **Reproducibility elements**:  
+  - Data split scripts used in experiments  
+  - Random seed configurations  
+  - Detailed hardware settings (GPU/CPU environment)  
+
+These resources enable independent verification of all reported results in the paper.
+
+- **Data copyright and cleaning standards**:  
+  - Image data were mainly collected from **museum collections** and **Baidu Baike**.  
+  - Copyright attribution has been clarified, and only publicly shareable resources are included.  
+  - A standardized data-cleaning process (removal of duplicates, low-quality or unclear samples) has been applied to ensure the reliability and fairness of the dataset.
+
+👉 For details, please refer to the [`docs/`](./docs) folder and experiment notes in this repository.
 ---
 
 ## 📜 License
