@@ -51,9 +51,10 @@ CeramicGPT/
 To ensure transparency and reproducibility, we have made the following resources publicly available in this repository:
 
 - **Reproducibility elements**:  
-  - Data split scripts used in experiments  
-  - Random seed configurations  
-  - Detailed hardware settings (GPU/CPU environment)  
+  - Data split scripts for training/validation/test sets
+  - Fixed random seed configurations to guarantee consistent results
+  - Detailed hardware specifications (GPU/CPU environment), including tested environments
+  - Minimum GPU requirement: 24GB VRAM (e.g., NVIDIA RTX 4090 or higher)
 
 These resources enable independent verification of all reported results in the paper.
 
