@@ -1,0 +1,248 @@
+/* 功能按钮区域 - 长思考和联网搜索 */
+.function-buttons-container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20rpx;
+    background-color: transparent;
+    position: fixed;
+    bottom: 120rpx;
+    left: 0;
+    right: 0;
+    z-index: 90;
+}
+
+.function-buttons-wrapper {
+    display: flex;
+    gap: 20rpx;
+    justify-content: flex-start;
+}
+
+.function-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 40rpx;
+    padding: 15rpx 25rpx;
+    box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.1);
+    width: auto;
+    min-width: 0;
+}
+
+.function-btn.active {
+    background-color: #e6f0ff;
+    color: #1a73e8;
+}
+
+.function-icon {
+    width: 48rpx;
+    height: 48rpx;
+    margin-right: 10rpx;
+}
+
+.function-text {
+    font-size: 28rpx;
+    color: #4285f4;
+    white-space: nowrap;
+}
+
+/* 输入区域样式 */
+.input-container {
+    background-color: #ffffff;
+    border-radius: 50rpx;
+    padding: 0;
+    box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.1);
+    margin: 0 20rpx;
+    display: flex;
+    align-items: center;
+    height: 100rpx;
+}
+
+.input-container.recording {
+    background-color: #4285f4;
+}
+
+.input-icon-container {
+    padding: 0 10rpx;
+}
+
+.input-icon {
+    width: 60rpx;
+    height: 60rpx;
+    padding: 10rpx;
+    flex-shrink: 0;
+}
+
+.toggle-icon {
+    margin-left: 10rpx;
+}
+
+.action-icon {
+    margin: 0 5rpx;
+}
+
+/* 语音输入模式 */
+.voice-input-area {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.voice-input-area.recording {
+    background-color: #4285f4;
+}
+
+.voice-placeholder {
+    color: #8f8f94;
+    font-size: 32rpx;
+    text-align: center;
+}
+
+.input-container.recording .voice-placeholder {
+    color: #ffffff;
+}
+
+/* 文字输入模式 */
+.text-input-area {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.text-input {
+    flex: 1;
+    height: 80rpx;
+    font-size: 32rpx;
+    color: #333;
+    padding: 0 15rpx;
+}
+
+.input-actions {
+    display: flex;
+    align-items: center;
+    padding-right: 10rpx;
+}
+
+/* 波形可视化 */
+.wave-visualization {
+    position: fixed;
+    bottom: 130rpx;
+    left: 0;
+    right: 0;
+    height: 70rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rpx;
+    padding: 0 30rpx;
+    z-index: 999;
+}
+
+.wave-item {
+    width: 5rpx;
+    border-radius: 3rpx;
+    transition: height 0.1s ease;
+}
+
+/* 录音状态提示 */
+.recording-status {
+    position: fixed;
+    bottom: 180rpx;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 15rpx 30rpx;
+    border-radius: 30rpx;
+    font-size: 28rpx;
+    z-index: 1000;
+}
+
+.recording-status.cancel-mode {
+    background-color: #ff3b30;
+}
+
+/* 流式传输指示器 */
+.streaming-indicator {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #1a73e8;
+    margin-right: 3px;
+    animation: pulse 1.5s infinite ease-in-out;
+}
+
+.dot:nth-child(2) {
+    animation-delay: 0.5s;
+}
+
+.dot:nth-child(3) {
+    animation-delay: 1s;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.8);
+        opacity: 0.5;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0.8);
+        opacity: 0.5;
+    }
+}
+
+/* 音频控制面板 */
+.audio-controls {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background: linear-gradient(135deg, #1a73e8, #0d47a1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    color: white;
+    z-index: 1001;
+}
+
+.control-button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.audio-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.audio-title {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.audio-duration {
+    font-size: 12px;
+    opacity: 0.8;
+}
