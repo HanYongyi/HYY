@@ -1,0 +1,2 @@
+The Mini Program are available on：
+https://huggingface.co/HanYongyi/CeramicGPT
