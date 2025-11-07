@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "瓷语与你同行",
+  "navigationBarBackgroundColor": "#A1C6B7",
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/login",
+    "pages/index",
+    "pages/index_ai",
+    "pages/chat/chat",
+    "pages/chat/chat_previous",
+    "pages/chat/chat_old",
+    "pages/mall/shop"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "RuoYi",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要您的授权以使用录音功能"
+    }
+  },
+  "usingComponents": {}
+}

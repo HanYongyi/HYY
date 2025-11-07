@@ -1,0 +1,53 @@
+{
+	"pages": [{
+			"path": "pages/login",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/index",
+			"style": {
+				"navigationBarTitleText": "瓷语",
+				"navigationStyle": "custom",
+				"softinputMode": "adjustPan"
+			}
+		}, {
+			"path": "pages/index_ai",
+			"style": {
+				"navigationBarTitleText": "瓷语",
+				"navigationStyle": "custom",
+				"softinputMode": "adjustPan"
+			}
+		}, {
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "瓷语与你同行",
+				"navigationBarBackgroundColor": "#A1C6B7"
+			}
+		}, {
+			"path": "pages/chat/chat_previous",
+			"style": {
+				"navigationBarTitleText": "瓷语与你同行",
+				"navigationBarBackgroundColor": "#A1C6B7"
+			}
+		}, {
+			"path": "pages/chat/chat_old",
+			"style": {
+				"navigationBarTitleText": "瓷语与你同行",
+				"navigationBarBackgroundColor": "#A1C6B7"
+			}
+		},{
+			"path": "pages/mall/shop",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "RuoYi",
+		"navigationBarBackgroundColor": "#FFFFFF"
+	}
+}
