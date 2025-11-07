@@ -4,7 +4,7 @@
 ![CeramicGPT overview](./image.png)
 
 **🔬 Agent Construction Framework for the Ceramics Domain: Application Demonstrations in Ceramic Knowledge Question-Answering and Image Analysis & Generation**  
-**📅 Estimated completion time of open source project: end of 2025**
+**📅 Estimated completion time of open source project: early 2026**
 
 ---
 
