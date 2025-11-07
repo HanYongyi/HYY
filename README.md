@@ -53,8 +53,10 @@ Integration with ChatCAS for creative interpretation and design assistance.
 
 Lightweight WeChat-native UI for smooth interaction and visualization.
 
-
-
+<div align="center">
+  <img src="./miniapp1.png" width="45%" alt="瓷语小程序界面1">
+  <img src="./miniapp2.png" width="45%" alt="瓷语小程序界面2">
+</div>
 ## 📁 Directory Structure
 
 ```bash
