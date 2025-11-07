@@ -41,7 +41,7 @@ We will open source gradually in the following stages：
 ## 💻 Mini Program: Porcelain Language Intelligent Q&A and Image Analysis Mini-Program
 
 To make the ChatCAS system more accessible and intuitive, we have developed a WeChat Mini Program named “瓷语”, which integrates large model–based ceramic knowledge Q&A and multimodal image analysis.
-The source code of this mini program is now open-sourced in this repository under the folder /miniapp/.
+Due to commercial collaboration confidentiality, the source code of this mini program is partly open-sourced in this repository under the folder /MiniProgram/.
 
 Key Features:
 
