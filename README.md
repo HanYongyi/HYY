@@ -38,10 +38,28 @@ We will open source gradually in the following stages：
 👉 The complete warehouse content will be unified and open source after all research work is completed and sorted out, which is expected to be by the end of 2025.
 
 
+## 💻 Mini Program: Porcelain Language Intelligent Q&A and Image Analysis Mini-Program
+
+To make the ChatCAS system more accessible and intuitive, we have developed a WeChat Mini Program named “瓷语”, which integrates large model–based ceramic knowledge Q&A and multimodal image analysis.
+The source code of this mini program is now open-sourced in this repository under the folder /miniapp/.
+
+Key Features:
+
+Intelligent Q&A via text or voice input, supporting multi-turn contextual dialogue.
+
+Image-based analysis of ceramic artifacts, identifying shape, texture, and style patterns.
+
+Integration with ChatCAS for creative interpretation and design assistance.
+
+Lightweight WeChat-native UI for smooth interaction and visualization.
+
+
+
 ## 📁 Directory Structure
 
 ```bash
 CeramicGPT/
+Mini Program/
 ├── data/                       # Knowledge Graph and Evaluation Set (Coming soon)
 ├── models/                     # Fine-tuning model related content (open source planned)
 ├── agents/                     # Multi-agent framework code
