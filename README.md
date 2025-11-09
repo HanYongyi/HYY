@@ -1,5 +1,6 @@
 # HYY
 # 🏺ChatCAS: Multimodal Ceramic Multi-Agent Studio (Consultation • Analysis • Generation)
+The original repository was at [https://github.com/HYY](https://github.com/HYY), and has now been moved to this repository.
 
 ![CeramicGPT overview](./image.png)
 
