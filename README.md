@@ -26,22 +26,29 @@ The project is dedicated to promoting the deep integration of artificial intelli
 
 The **CeramicGPT** model and related resources are available on [Hugging Face](https://huggingface.co/HanYongyi/CeramicGPT).  
 ---
-## 📌Open Source Roadmap
+
+## 📌 Open Source Roadmap
 
 ### Commercialization Notice 
 
 The HYY project has officially entered the commercialization phase.  
-Due to intellectual property protection and compliance requirements, the core components of the system — including:
+Due to intellectual property protection, compliance requirements, and ongoing industrial applications, the majority of the core assets now serve commercial use cases — including:
 
-- The mini-program application  
 - Model weight files  
-- Agent framework modules  
-- Full deployment architecture  
+- Full agent modules and orchestration logic  
+- Most datasets and production-grade pipelines  
+- The latest mini-program versions and deployment architecture  
 
-have been transferred to **Tongchuan Damenli Ceramics Co., Ltd. (铜川市大门里瓷业公司)** for industrial application and are no longer available for open-source release. 🔒
+These components have been transferred to **Tongchuan Damenli Ceramics Co., Ltd. (铜川市大门里瓷业公司)** for real-world deployment and are therefore **no longer available for full open-source release**. 🔒
 
-Accordingly, the original open-source roadmap has been discontinued. ✅  
-We appreciate the community’s understanding regarding this transition. 🙏
+Accordingly, the original open-source roadmap has been discontinued. ✅
+
+That said, out of goodwill and to support learning, reproducibility, and community exploration, we are keeping **a limited set of materials publicly available**, including:
+
+- A **partial dataset subset** (non-sensitive / compliance-reviewed)  
+- The **first-generation (prototype) version** of the mini-program  
+
+We hope these retained resources can still be helpful for academic readers and developers who want to understand the early-stage design choices and implementation ideas. 🙏
 
 ---
 
@@ -67,7 +74,7 @@ Under the premise of:
 - Research ethics compliance  
 - Intellectual property protection  
 
-we are willing to provide full access to 100% of the ChatCAS system for authorized partners. ✅
+we are willing to provide **authorized access to the full ChatCAS system (100%)** for eligible partners. ✅
 
 For commercial collaboration inquiries, please contact us directly to discuss further arrangements. 📩
 
