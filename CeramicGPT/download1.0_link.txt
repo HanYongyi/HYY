@@ -1,2 +1,9 @@
-The CeramicGPT model and related resources are available on：
+NOTICE (Commercialization)
+
+The CeramicGPT model and related resources have entered the commercialization phase.
+Due to intellectual property protection and compliance requirements, the full model resources are not provided for free distribution.
+
+A complete commercialization notice is provided in the project README.
+
+The CeramicGPT model and related resources are available on:
 https://huggingface.co/HanYongyi/CeramicGPT
