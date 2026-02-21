@@ -26,17 +26,50 @@ The project is dedicated to promoting the deep integration of artificial intelli
 
 The **CeramicGPT** model and related resources are available on [Hugging Face](https://huggingface.co/HanYongyi/CeramicGPT).  
 ---
-## 📌 Open Source Roadmap
+## 📌Open Source Roadmap
 
-We will open source gradually in the following stages：
+### Commercialization Notice 
 
-| phase |  content | Time node (expected) |
-|------|------|----------------|
-| ✅ step 1 | Part of ceramic knowledge dataset | Q2 2025 |
-| 🚧 step 2 | EvalCera evaluation base set | Q3 2025 |
-| ⏳ step 3 | ChatCAS framework code and examples | Q4 2025 |
+The HYY project has officially entered the commercialization phase.  
+Due to intellectual property protection and compliance requirements, the core components of the system — including:
 
-👉 The complete warehouse content will be unified and open source after all research work is completed and sorted out, which is expected to be by the end of 2025.
+- The mini-program application  
+- Model weight files  
+- Agent framework modules  
+- Full deployment architecture  
+
+have been transferred to **Tongchuan Damenli Ceramics Co., Ltd. (铜川市大门里瓷业公司)** for industrial application and are no longer available for open-source release. 🔒
+
+Accordingly, the original open-source roadmap has been discontinued. ✅  
+We appreciate the community’s understanding regarding this transition. 🙏
+
+---
+
+### Academic Trial Access 🎓
+
+To promote academic exchange, we are willing to provide **trial access to the ChatCAS system** for qualified academic collaborators.
+
+Interested researchers may contact us via WeChat:
+
+> +86 18511601531 💬  
+
+After adding the account, please leave a message indicating your request for a system trial.
+
+---
+
+### Research & Commercial Cooperation 🤝
+
+We welcome cooperation with qualified third-party research institutions or academic teams through formal written agreements.
+
+Under the premise of:
+
+- Data privacy protection  
+- Research ethics compliance  
+- Intellectual property protection  
+
+we are willing to provide full access to 100% of the ChatCAS system for authorized partners. ✅
+
+For commercial collaboration inquiries, please contact us directly to discuss further arrangements. 📩
 
 
 ## 💻 Mini Program: Porcelain Language Intelligent Q&A and Image Analysis Mini-Program
