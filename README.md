@@ -22,16 +22,9 @@ The project is dedicated to promoting the deep integration of artificial intelli
 
 ---
 
-## 🚀 Model Availability
+## 📌 Commercialization Notice 
 
-The **CeramicGPT** model and related resources are available on [Hugging Face](https://huggingface.co/HanYongyi/CeramicGPT).  
----
-
-## 📌 Open Source Roadmap
-
-### Commercialization Notice 
-
-The HYY project has officially entered the commercialization phase.  
+The project has officially entered the commercialization phase.  
 Due to intellectual property protection, compliance requirements, and ongoing industrial applications, the majority of the core assets now serve commercial use cases — including:
 
 - Model weight files  
@@ -78,6 +71,10 @@ we are willing to provide **authorized access to the full ChatCAS system (100%)*
 
 For commercial collaboration inquiries, please contact us directly to discuss further arrangements. 📩
 
+## 🚀 Model Availability
+
+The **CeramicGPT** model and related resources are available on [Hugging Face](https://huggingface.co/HanYongyi/CeramicGPT).  
+---
 
 ## 💻 Mini Program: Porcelain Language Intelligent Q&A and Image Analysis Mini-Program
 
