@@ -5,5 +5,5 @@ Due to intellectual property protection and compliance requirements, the full mo
 
 A complete commercialization notice is provided in the project README.
 
-The CeramicGPT model and related resources are available on:
-https://huggingface.co/HanYongyi/CeramicGPT
+
+
