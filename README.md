@@ -71,6 +71,11 @@ we are willing to provide **authorized access to the full ChatCAS system (100%)*
 
 For commercial collaboration inquiries, please contact us directly to discuss further arrangements. 📩
 
+
+
+
+---------------------------------------------------------------------------------------------------------
+
 ## 🚀 Model Availability
 
 The **CeramicGPT** model and related resources are available on [Hugging Face](https://huggingface.co/HanYongyi/CeramicGPT).  
